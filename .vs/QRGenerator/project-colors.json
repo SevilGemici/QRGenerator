@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a87a96df-ad22-4838-b025-9d0d40f6dbb0": {
+      "ProjectGuid": "a87a96df-ad22-4838-b025-9d0d40f6dbb0",
+      "DisplayName": "QRGenerator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

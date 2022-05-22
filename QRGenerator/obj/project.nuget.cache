@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "D9y9z9w/HnkMZYa6zMEnR0JUa/wCSSxKJhcLN0ZqQbTpVbEUtKxNAEa3bJzDknDQMIfUqt+IW8RbYazWXjUBDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bodeong\\source\\repos\\QRGenerator\\QRGenerator\\QRGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bodeong\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Bodeong\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\Bodeong\\.nuget\\packages\\qrcodernetcore\\1.0.0\\qrcodernetcore.1.0.0.nupkg.sha512",
+    "C:\\Users\\Bodeong\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
